@@ -1,4 +1,4 @@
-This html was made in Canva, but I copied it out of the published site. To update:
+This html was made in Canva, but I copied it out of the published site (rather than pay $120 for a custom domain). To update:
 
 1. publish site and visit in chrome
 2. Save webpage, complete.
