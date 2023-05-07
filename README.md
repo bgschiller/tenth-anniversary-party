@@ -13,3 +13,4 @@ done
 ```
 
 5. Delete the `fetch('_footer')` script tag from the bottom of the page.
+6. change the `<base>` to be `"/"`, if necessary.
